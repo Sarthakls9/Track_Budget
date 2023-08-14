@@ -43,6 +43,7 @@
         android:textSize="32sp"
         android:textStyle="bold"
         android:background="@drawable/budget_bg"
+        android:textColor="@color/black"
         android:layout_margin="10dp"
         android:padding="5dp"
         />
